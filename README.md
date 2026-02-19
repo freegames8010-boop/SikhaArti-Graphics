@@ -20,3 +20,7 @@ npm run dev
 - Hero 3D canvas is lazy loaded using dynamic import and fallback skeleton.
 - Scene uses environment lighting and subtle bloom for realism while staying minimal.
 - Sections animate with fade-up scroll reveals and timeline progress animation.
+
+
+## Inspiration
+- See `INSPIRATION.md` for the design reference direction that guided this implementation.
